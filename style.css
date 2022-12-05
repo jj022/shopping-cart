@@ -1,0 +1,97 @@
+body {
+    background-color: #F6F7FC;
+}
+
+.navbar {
+    background-color: #ffff;
+    border-radius: 4px;
+    height: 84px;
+    padding: 18px 165px 18px;
+}
+
+.card {
+    border: none;
+}
+.card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.card-body {
+    background-color: #F6F7FC;
+    padding-bottom: 50px;
+}
+
+.titolo1 {
+    padding-top: 75px;
+    padding-bottom: 48px;
+}
+
+.titolo2 {
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+
+.btn {
+    background-color: #08C6C0;
+    border: #08C6C0;
+    width: 100%;
+}
+
+.form-check {
+    padding-bottom: 16px;
+}
+.form-check-input:checked {
+    background-color: #08C6C0 !important;
+    border: #08C6C0;
+    
+  }
+  .form-check-input:checked:focus {
+    box-shadow: #08C6C0;
+  }
+  .form-check-input:focus {
+    box-shadow: #08C6C0
+  }
+  .form-check-input:active {
+    background-color: #08C6C0; 
+  }
+.btn:hover {
+    background-color: #058a86;
+}
+
+#badge {
+    width: 70px;
+    padding: 10px 10px;
+}
+
+#badge1 {
+    width: 120px;
+    padding: 10px 10px;
+}
+
+#body-table {
+    padding-bottom: 80px;
+}
+
+#button1 {
+    width: 30%;
+    float: right;
+}
+
+#card2 {
+    float: right;
+    width: 50%;
+
+}
+
+#card-body2 {
+    background-color: #ffff;
+    padding-bottom: 16px;
+}
+
+footer {
+    background-color: #F6F7FC;
+    height: 50px;
+}
